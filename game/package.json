@@ -1,0 +1,27 @@
+{
+  "name": "black-reliquary",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "assets": "node tools/process-assets.mjs",
+    "assets:preview": "node tools/process-assets.mjs --preview",
+    "assets:watch": "node tools/process-assets.mjs --watch",
+    "package": "tsc && vite build && cd dist && rm -f ../../black-reliquary-web.zip && zip -r -q -X ../../black-reliquary-web.zip . && cd .. && vite build --mode single && cp dist-single/index.html ../black-reliquary.html",
+    "build:single": "tsc && vite build --mode single && cp dist-single/index.html ../black-reliquary.html"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "sharp": "^0.35.5",
+    "tsx": "^4.23.15",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0",
+    "vite-plugin-singlefile": "^2.3.3"
+  },
+  "dependencies": {
+    "pixi.js": "^8.21.0"
+  }
+}

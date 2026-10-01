@@ -1,0 +1,183 @@
+Player
+
+Knight, light armor (1:1)
+Dark gothic medieval game character, hooded knight in light leather armor with a long red scarf, lean and agile, 3/4 top-down view facing down-right, full body centered filling 80% of the height, painterly hand-painted style, muted desaturated palette with deep red accents, soft rim light, solid flat magenta background, no shadow, no text, game asset
+Knight, heavy armor (1:1)
+Dark gothic medieval game character, the same knight in heavy blackened plate armor with a tattered red tabard and a closed helm, bulky and imposing, 3/4 top-down view facing down-right, full body centered filling 80% of the height, painterly hesaturated palette with deep redaccents, soft rim light, solid flat magenta background, no shadow, no text, game asset
+Body parts, light armor (16:9)
+Game sprite parts sheet for cutout animation: hooded knight in light leather armor with red scarf split
+into separate pieces laid out with widrso, left upper arm, left forearm with hand, right upper arm, right forearm with hand, left thigh, left shin with boot, right thigh, right
+shin with boot, scarf, 3/4 top-down vi style, muted desaturated palette withdeep red accents, solid flat magenta background, no text
+Body parts, heavy armor (16:9)
+Game sprite parts sheet for cutout animation: knight in heavy blackened plate armor with red tabard
+split into separate pieces laid out wistplate torso, left pauldron with upper arm, left gauntlet forearm, right pauldron with upper arm, right gauntlet forearm, left thigh plate,
+left greave with sabaton, right thigh abaton, tabard, 3/4 top-down view,painterly hand-painted style, muted palette with deep red accents, solid flat magenta background, no
+text
+
+Weapons (all 1:1)
+
+Longsword
+Dark gothic medieval longsword, worn steel blade, black leather grip, iron crossguard, laid diagonally
+from bottom-left to top-right, centerestyle, muted palette, soft rim light,solid flat magenta background, no text, game item asset
+Greatsword
+Dark gothic medieval two-handed greatsword, massive notched blade with dried blood, long wrapped hilt,
+laid diagonally from bottom-left to toly hand-painted style, muted palettewith deep red accents, soft rim light, solid flat magenta background, no text, game item asset
+Flintlock pistol
+Dark gothic flintlock pistol, dark wood stock, engraved tarnished brass fittings, laid horizontally,
+centered, painterly hand-painted stylelight, solid flat magenta background,no text, game item asset
+Blunderbuss
+Dark gothic blunderbuss with a wide flared bronze muzzle, worn wooden stock wrapped in leather, laid
+diagonally, centered, painterly hand-pe, soft rim light, solid flat magentabackground, no text, game item asset
+Arquebus
+Dark gothic long arquebus musket, long iron barrel, carved dark wood stock, matchlock mechanism, laid
+diagonally, centered, painterly hand-pe, soft rim light, solid flat magentabackground, no text, game item asset
+Heavy crossbow
+Dark gothic heavy crossbow with iron limbs and a crank mechanism, black bolts, laid diagonally,
+centered, painterly hand-painted stylelight, solid flat magenta background,no text, game item asset
+
+Enemies (all 1:1)
+
+Skeleton
+Dark gothic game enemy, shambling skelsword and cracked bones, 3/4 top-downview facing down-left, full body centered filling 80% of the height, painterly hand-painted style,
+muted desaturated palette, soft rim lickground, no shadow, no text, gameasset
+Zombie
+Dark gothic game enemy, bloated rotting zombie peasant with torn clothes and outstretched arms, 3/4
+top-down view facing down-left, full bf the height, painterly hand-paintedstyle, muted desaturated greenish palette, soft rim light, solid flat magenta background, no shadow, no
+text, game asset
+Skeleton archer
+Dark gothic game enemy, skeleton archea longbow drawn, 3/4 top-down viewfacing down-left, full body centered filling 80% of the height, painterly hand-painted style, muted
+desaturated palette, soft rim light, snd, no shadow, no text, game asset
+Ghoul
+Dark gothic game enemy, emaciated craw, hunched on all fours, pale grey skin, 3/4 top-down view facing down-left, full body centered, painterly hand-painted style, muted
+desaturated palette, soft rim light, snd, no shadow, no text, game asset
+Drowned
+Dark gothic game enemy, drowned corpsed dripping water, teal-grey waterlogged skin, 3/4 top-down view facing down-left, full body centered filling 80% of the height, painterly
+hand-painted style, muted desaturated ht, solid flat magenta background, noshadow, no text, game asset
+Plague corpse
+Dark gothic game enemy, swollen plague corpse with sickly yellow-green boils leaking toxic mist, 3/4
+top-down view facing down-left, full bf the height, painterly hand-paintedstyle, muted desaturated palette with toxic yellow-green accents, soft rim light, solid flat magenta
+background, no shadow, no text, game a
+Shield bearer
+Dark gothic game enemy, undead soldieriron tower shield, 3/4 top-down viewfacing down-left, full body centered filling 80% of the height, painterly hand-painted style, muted
+desaturated palette, soft rim light, snd, no shadow, no text, game asset
+Werewolf
+Dark gothic game enemy, hulking dark b red eyes, crouched ready to lunge, 3/4 top-down view facing down-left, full body centered filling 80% of the height, painterly hand-painted
+style, muted desaturated palette with t, solid flat magenta background, noshadow, no text, game asset
+Wraith
+Dark gothic game enemy, translucent pale blue wraith with a tattered flowing shroud and no legs,
+floating, 3/4 top-down view facing dow0% of the height, painterlyhand-painted style, muted cold blue palette, soft glow, solid flat magenta background, no shadow, no
+text, game asset
+Cultist
+Dark gothic game enemy, hooded cultiststing magenta dark magic from bothhands, 3/4 top-down view facing down-left, full body centered filling 80% of the height, painterly
+hand-painted style, muted desaturated ts, soft rim light, solid flat magentabackground, no shadow, no text, game asset
+For the cultist, swap "magenta" in thebackground removal eats the spell.
+
+Bosses (all 1:1)
+
+Gravedigger
+Dark gothic game boss, giant undead gravedigger with a huge shovel, lantern hanging from his belt,
+hunched and massive, 3/4 top-down viewntered filling 85% of the height,painterly hand-painted style, muted cold grey-blue palette, dramatic rim light, solid flat magenta
+background, no shadow, no text, game a
+Hanged Knight
+Dark gothic game boss, undead knight ia broken noose still around his neck,greatsword and kite shield, 3/4 top-down view facing down, full body centered filling 85% of the
+height, painterly hand-painted style, dramatic rim light, solid flat magentabackground, no shadow, no text, game asset
+Alpha Hunter
+Dark gothic game boss, enormous alpha werewolf with scarred dark fur, bone trophies around its neck,
+glowing red eyes, mid-howl, 3/4 top-dobody centered filling 85% of theheight, painterly hand-painted style, muted brown palette with red accents, dramatic rim light, solid
+flat magenta background, no shadow, no
+Plague Priest
+Dark gothic game boss, tall plague pritor mask and rotting green vestments,swinging a censer of toxic green smoke, 3/4 top-down view facing down, full body centered filling 85%
+of the height, painterly hand-painted toxic green accents, dramatic rimlight, solid flat magenta background, no shadow, no text, game asset
+Bishop of Ash
+Dark gothic game boss, towering corrupted bishop with a golden mitre, ash-grey robes smoldering with
+embers, holding a burning crozier stafg down, full body centered filling 85%of the height, painterly hand-painted style, muted palette with gold and ember-orange accents, dramatic
+rim light, solid flat magenta backgroume asset
+
+Pets (all 1:1)
+
+Raven
+Dark gothic game pet, black raven with glowing red eyes, wings spread mid-flight, 3/4 top-down view,
+centered, painterly hand-painted styleccents, soft rim light, solid flatmagenta background, no shadow, no text, game asset
+Spectral hound
+Dark gothic game pet, ghostly spectral hound made of pale blue mist with glowing eyes, running pose,
+3/4 top-down view facing down-right, cinted style, muted cold blue palette,soft glow, solid flat magenta background, no shadow, no text, game asset
+Lantern wisp
+Dark gothic game pet, small floating will-o'-the-wisp inside an old iron lantern, warm golden flame,
+3/4 top-down view, centered, painterly palette with warm gold glow, solidflat magenta background, no shadow, no text, game asset
+Bone cat
+Dark gothic game pet, skeletal undead cat with glowing green eyes and a tattered collar with a bell,
+sitting, 3/4 top-down view facing downy hand-painted style, muted desaturated palette, soft rim light, solid flat magenta background, no shadow, no text, game asset
+
+Ground tiles (all 1:1)
+
+Frozen graveyard
+Seamless tileable ground texture for aveyard soil with patches of snow,frosted dead grass and small stones, viewed from directly above, painterly hand-painted style, muted
+cold blue-grey palette, even flat lights, no text
+Drowned mire
+Seamless tileable ground texture for ap mud with shallow dark water puddles,moss and rotting reeds, viewed from directly above, painterly hand-painted style, muted dark green
+palette, even flat lighting, no shadow
+Rotwood
+Seamless tileable ground texture for at floor with rotting leaves, twistedroots and fungus, viewed from directly above, painterly hand-painted style, muted grey-brown palette,
+even flat lighting, no shadows, no obj
+Ash ruins
+Seamless tileable ground texture for aone and scorched earth covered in greyash with faint glowing embers, viewed from directly above, painterly hand-painted style, muted grey and
+ember-orange palette, even flat lighti, no text
+Black cathedral
+Seamless tileable ground texture for alate floor tiles with rain puddles andcracks, viewed from directly above, painterly hand-painted style, muted black-violet palette, even flat
+lighting, no shadows, no objects, no t
+Cathedral nave
+Seamless tileable ground texture for athedral nave floor of worn red-brownstone with faded gold inlay patterns and scattered ash, viewed from directly above, painterly
+hand-painted style, muted warm palettehadows, no objects, no text
+
+Props (all 16:9)
+
+Graveyard props
+Game prop sheet for a dark gothic top-down game, separate isolated objects with wide gaps: 4 different
+snowy tombstones, a dead leafless treeent, a stone grave cross, an opengrave, 3/4 top-down view, painterly hand-painted style, muted cold blue-grey palette, solid flat
+magenta background, no text
+Swamp props
+Game prop sheet for a dark gothic top-ed objects with wide gaps: 3 dark water pools of different shapes, a sunken mossy tombstone, rotting reeds clump, a half-sunken wooden cart, a
+dead tree stump, 3/4 top-down view, pa, muted dark green palette, solid flat magenta background, no text
+Forest props
+Game prop sheet for a dark gothic top-down game, separate isolated objects with wide gaps: 3 twisted
+root clusters, a giant mushroom clustegnarled dead tree, a hanging-mossboulder, 3/4 top-down view, painterly hand-painted style, muted grey-brown palette, solid flat magenta
+background, no text
+Ash ruins props
+Game prop sheet for a dark gothic top-ed objects with wide gaps: 3 brokenstone wall chunks, a collapsed pillar, a smoldering brazier, rubble pile with embers, a charred wooden
+beam, 3/4 top-down view, painterly hany and ember-orange palette, solid flatmagenta background, no text
+Cathedral props
+Game prop sheet for a dark gothic top-down game, separate isolated objects with wide gaps: 2 cracked
+stone pillars, a row of melted candlesstone altar, a broken stained glassshard pile, a large tomb slab, 3/4 top-down view, painterly hand-painted style, muted black-violet and
+gold palette, solid flat magenta backg
+
+Pickups and items
+
+Soul gems (16:9)
+Game pickup sheet for a dark gothic game, separate isolated glowing soul crystals with wide gaps: small
+green crystal, medium blue crystal, laeted and softly glowing, painterlyhand-painted style, solid flat magenta background, no text
+Relic chest (1:1)
+Dark gothic ornate reliquary chest of black iron and gold, faint golden light leaking from the seams,
+3/4 top-down view, centered, painterly palette with gold accents, soft rimlight, solid flat magenta background, no shadow, no text, game asset
+Ability icons (16:9)
+Set of 8 square game ability icons in a dark gothic style, laid out in a grid with gaps: throwing
+daggers, pale holy fire, iron chain, blood wave, bell of the dead, shieldblock, each icon with a dark ornate iron frame, painterly hand-painted style, muted palette with deep
+red accents, solid flat magenta backgr
+Relic icons (16:9)
+Set of 8 square game relic icons in a t in a grid with gaps: blood oathscroll, gravedigger whetstone, bronze death bell, executioner seal ring, broken tower shield, glowing
+wolf fang, plague censer, ash scripturrnate gold frame, painterlyhand-painted style, muted palette, solid flat magenta background, no text
+Armor icons (16:9)
+Set of 6 square game armor icons in a dark gothic style, laid out in a grid with gaps: light leather
+hood, light leather vest, light boots,heavy blackened breastplate, heavyplate sabatons, each with a dark ornate iron frame, painterly hand-painted style, muted palette with
+deep red accents, solid flat magenta b
+
+Screens (all 16:9)
+
+Main menu background
+Dark gothic key art, a lone hooded knight with a red scarf standing before a ruined black cathedral at
+night under a blood-red moon, graveyarravens circling, wide cinematiccomposition with empty dark space in the center for a title, painterly hand-painted style, muted
+desaturated palette with deep red acce
+Loading screen
+Dark gothic illustration, an ornate real altar surrounded by melted candlesand falling ash, dramatic golden light, wide cinematic composition, painterly hand-painted style, muted
+palette with gold and deep red accents
+
+Run the two knight prompts first. If trest will match it.

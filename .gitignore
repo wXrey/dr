@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+# build outputs (black-reliquary.html at the root is the committed playable build)
+game/dist/
+game/dist-single/
+black-reliquary-web.zip
+# generated from ../assets by `npm run assets`
+game/public/assets/
+game/tools/preview_*.jpg
+# superseded art drafts
+asset-backups/

@@ -1,0 +1,290 @@
+{
+  "generator": "Grok Imagine via Computer Use",
+  "downloaded": [
+    {
+      "path": "bosses/alpha-hunter.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 450923
+    },
+    {
+      "path": "bosses/bishop-of-ash.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 562226
+    },
+    {
+      "path": "bosses/gravedigger.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 447693
+    },
+    {
+      "path": "bosses/hanged-knight.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 466319
+    },
+    {
+      "path": "bosses/plague-priest.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 517246
+    },
+    {
+      "path": "enemies/cultist.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 394437
+    },
+    {
+      "path": "enemies/drowned.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 344214
+    },
+    {
+      "path": "enemies/ghoul.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 333312
+    },
+    {
+      "path": "enemies/plague-corpse.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 375081
+    },
+    {
+      "path": "enemies/shield-bearer.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 372034
+    },
+    {
+      "path": "enemies/skeleton-archer.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 307579
+    },
+    {
+      "path": "enemies/skeleton.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 315048
+    },
+    {
+      "path": "enemies/werewolf.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 381318
+    },
+    {
+      "path": "enemies/wraith.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 273007
+    },
+    {
+      "path": "enemies/zombie.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 356712
+    },
+    {
+      "path": "items/ability-icons.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 528119
+    },
+    {
+      "path": "items/armor-icons.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 502086
+    },
+    {
+      "path": "items/relic-chest.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 612163
+    },
+    {
+      "path": "items/relic-icons.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 555515
+    },
+    {
+      "path": "items/soul-gems.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 361957
+    },
+    {
+      "path": "pets/bone-cat.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 367356
+    },
+    {
+      "path": "pets/lantern-wisp.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 330463
+    },
+    {
+      "path": "pets/raven.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 289875
+    },
+    {
+      "path": "pets/spectral-hound.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 274055
+    },
+    {
+      "path": "player/knight-heavy-parts.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 318083
+    },
+    {
+      "path": "player/knight-heavy.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 371135
+    },
+    {
+      "path": "player/knight-light-parts.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 228287
+    },
+    {
+      "path": "player/knight-light.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 275100
+    },
+    {
+      "path": "props/ash-ruins-props.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 424070
+    },
+    {
+      "path": "props/cathedral-props.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 372731
+    },
+    {
+      "path": "props/forest-props.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 512532
+    },
+    {
+      "path": "props/graveyard-props.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 513099
+    },
+    {
+      "path": "props/swamp-props.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 403690
+    },
+    {
+      "path": "screens/loading-screen.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 587671
+    },
+    {
+      "path": "screens/main-menu-background.jpg",
+      "width": 1792,
+      "height": 1008,
+      "bytes": 611724
+    },
+    {
+      "path": "tiles/ash-ruins.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 794849
+    },
+    {
+      "path": "tiles/black-cathedral.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 840746
+    },
+    {
+      "path": "tiles/cathedral-nave.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 998338
+    },
+    {
+      "path": "tiles/drowned-mire.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 832980
+    },
+    {
+      "path": "tiles/frozen-graveyard.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 980811
+    },
+    {
+      "path": "tiles/rotwood.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 970284
+    },
+    {
+      "path": "weapons/arquebus.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 241291
+    },
+    {
+      "path": "weapons/blunderbuss.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 257042
+    },
+    {
+      "path": "weapons/flintlock-pistol.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 232509
+    },
+    {
+      "path": "weapons/greatsword.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 395554
+    },
+    {
+      "path": "weapons/heavy-crossbow.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 287325
+    },
+    {
+      "path": "weapons/longsword.jpg",
+      "width": 1408,
+      "height": 1408,
+      "bytes": 280121
+    }
+  ],
+  "pending_batch_thumbnails": [],
+  "grok_canvas": "https://grok.com/imagine/post/85d619d4-d1bd-4d5a-957a-368f22f4dc46?conversation=b5c589d5-0dd5-48d5-9b1e-b5f0b39c264e",
+  "status": "complete"
+}

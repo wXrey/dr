@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Black Reliquary</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div id="app"></div>
+    <div id="ui"></div>
+    <div id="loading"><div>Opening the reliquary…<i></i></div></div>
+    <script>
+      // If the game never starts (e.g. the multi-file build opened straight from disk), say why instead of hanging.
+      setTimeout(function () {
+        var l = document.getElementById('loading');
+        if (l && !l.dataset.ok) l.innerHTML = '<div style="max-width:560px;text-align:center;line-height:1.4">The game could not start.<br><small>' +
+          (location.protocol === 'file:' ? 'This build must be served over http. Open <b>black-reliquary.html</b> (the single-file build) instead, or run <code>npm run preview</code>.' : 'Check the browser console for errors.') + '</small></div>';
+      }, 8000);
+    </script>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
